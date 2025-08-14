@@ -1,0 +1,82 @@
+[2025-08-14 16:45:58] [INFO ] [SignUpTestCase:113] - ✅ Account Created message is visible
+[2025-08-14 16:49:08] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 16:49:16] [INFO ] [SignUpTestCase:11] - About to Start Sign Up Screen 1 Happy Path
+[2025-08-14 16:49:16] [INFO ] [SignUpTestCase:57] - Sign Up Screen 1
+[2025-08-14 16:49:21] [INFO ] [SignUpTestCase:16] - About to Start Sign Up Screen 2 Happy Path
+[2025-08-14 16:49:23] [INFO ] [SignUpTestCase:126] - Sign Up Screen 2 Failed Expected condition failed: waiting for element to be clickable: By.id: id_gender1 (tried for 2 second(s) with 500 milliseconds interval)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59480}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59480/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: df8ae94ba63764a76e7399c4cc67516a
+[2025-08-14 16:49:28] [INFO ] [SignUpTestCase:30] - Tearing Down
+[2025-08-14 16:50:24] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 16:50:33] [INFO ] [SignUpTestCase:11] - About to Start Sign Up Screen 1 Happy Path
+[2025-08-14 16:50:33] [INFO ] [SignUpTestCase:57] - Sign Up Screen 1
+[2025-08-14 16:50:43] [INFO ] [SignUpTestCase:16] - About to Start Sign Up Screen 2 Happy Path
+[2025-08-14 16:50:44] [INFO ] [SignUpTestCase:76] - Gender is Male
+[2025-08-14 16:50:49] [INFO ] [SignUpTestCase:118] - ✅ Account Created message is visible
+[2025-08-14 16:50:54] [INFO ] [SignUpTestCase:30] - Tearing Down
+[2025-08-14 16:51:47] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 16:51:53] [INFO ] [SignUpTestCase:11] - About to Start Sign Up Screen 1 Happy Path
+[2025-08-14 16:51:53] [INFO ] [SignUpTestCase:57] - Sign Up Screen 1
+[2025-08-14 16:51:59] [INFO ] [SignUpTestCase:16] - About to Start Sign Up Screen 2 Happy Path
+[2025-08-14 16:52:02] [INFO ] [SignUpTestCase:126] - Sign Up Screen 2 Failed Expected condition failed: waiting for element to be clickable: By.id: id_gender1 (tried for 2 second(s) with 500 milliseconds interval)
+[2025-08-14 16:52:17] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 16:52:24] [INFO ] [SignUpTestCase:11] - About to Start Sign Up Screen 1 Happy Path
+[2025-08-14 16:52:24] [INFO ] [SignUpTestCase:57] - Sign Up Screen 1
+[2025-08-14 16:52:29] [INFO ] [SignUpTestCase:16] - About to Start Sign Up Screen 2 Happy Path
+[2025-08-14 16:52:29] [INFO ] [SignUpTestCase:76] - Gender is Male
+[2025-08-14 16:52:32] [INFO ] [SignUpTestCase:126] - Sign Up Screen 2 Failed element click intercepted: Element <button type="submit" data-qa="create-account" class="btn btn-default">...</button> is not clickable at point (552, 877). Other element would receive the click: <iframe id="aswift_3" name="aswift_3" browsingtopics="true" style="min-height: auto; max-height: none; min-width: auto; max-width: none; width: 1905px !important; height: 267px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1905" height="267" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20250813/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-1677597403311019&amp;fa=1&amp;ifi=4&amp;uci=a!4&amp;btvi=3" data-google-container-id="a!4" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CNvUyq-5io8DFUdQpAQdgfU8Lw" data-load-complete="true"></iframe>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4bd79e0987fd9033ef7a6ef355096ebe, clickElement {id=f.35ABB46080367F0434C28D8B5E90F32B.d.5CD6285F42D633F849E78AB190A08F5D.e.88}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59770}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59770/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4bd79e0987fd9033ef7a6ef355096ebe)] -> css selector: [data-qa='create-account']]
+Session ID: 4bd79e0987fd9033ef7a6ef355096ebe
+[2025-08-14 16:52:37] [INFO ] [SignUpTestCase:30] - Tearing Down
+[2025-08-14 17:06:17] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 17:06:50] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 17:07:37] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 17:07:49] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 17:08:02] [INFO ] [SignUpTestCase:11] - About to Start Sign Up Screen 1 Happy Path
+[2025-08-14 17:08:02] [INFO ] [SignUpTestCase:57] - Sign Up Screen 1
+[2025-08-14 17:08:03] [INFO ] [SignUpTestCase:16] - About to Start Sign Up Screen 2 Happy Path
+[2025-08-14 17:08:29] [INFO ] [SignUpTestCase:126] - Sign Up Screen 2 Failed Expected condition failed: waiting for element to be clickable: By.id: id_gender1 (tried for 2 second(s) with 500 milliseconds interval)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60035}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60035/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eaf173bba36654b6e8c730d397521745
+[2025-08-14 17:08:34] [INFO ] [SignUpTestCase:30] - Tearing Down
+[2025-08-14 17:09:09] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 17:09:50] [INFO ] [SignUpTestCase:11] - About to Start Sign Up Screen 1 Happy Path
+[2025-08-14 17:09:50] [INFO ] [SignUpTestCase:57] - Sign Up Screen 1
+[2025-08-14 17:09:50] [INFO ] [SignUpTestCase:16] - About to Start Sign Up Screen 2 Happy Path
+[2025-08-14 17:10:10] [INFO ] [SignUpTestCase:126] - Sign Up Screen 2 Failed Expected condition failed: waiting for element to be clickable: By.id: id_gender1 (tried for 2 second(s) with 500 milliseconds interval)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60123}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60123/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e919c8289bee5004860af8fdccb2611
+[2025-08-14 17:10:15] [INFO ] [SignUpTestCase:30] - Tearing Down
+[2025-08-14 17:10:56] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 17:11:03] [INFO ] [SignUpTestCase:11] - About to Start Sign Up Screen 1 Happy Path
+[2025-08-14 17:11:03] [INFO ] [SignUpTestCase:57] - Sign Up Screen 1
+[2025-08-14 17:11:07] [INFO ] [SignUpTestCase:16] - About to Start Sign Up Screen 2 Happy Path
+[2025-08-14 17:11:09] [INFO ] [SignUpTestCase:126] - Sign Up Screen 2 Failed Expected condition failed: waiting for element to be clickable: By.id: id_gender1 (tried for 2 second(s) with 500 milliseconds interval)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60303}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60303/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b8bb5dffb079e6d256b39c97bd5969e
+[2025-08-14 17:11:14] [INFO ] [SignUpTestCase:30] - Tearing Down
+[2025-08-14 17:11:35] [INFO ] [SignUpTestCase:19] - Setting Up Driver
+[2025-08-14 17:11:41] [INFO ] [SignUpTestCase:11] - About to Start Sign Up Screen 1 Happy Path
+[2025-08-14 17:11:41] [INFO ] [SignUpTestCase:57] - Sign Up Screen 1
+[2025-08-14 17:11:43] [INFO ] [SignUpTestCase:16] - About to Start Sign Up Screen 2 Happy Path
+[2025-08-14 17:11:44] [INFO ] [SignUpTestCase:76] - Gender is Male
+[2025-08-14 17:11:52] [INFO ] [SignUpTestCase:118] - ✅ Account Created message is visible
+[2025-08-14 17:11:57] [INFO ] [SignUpTestCase:30] - Tearing Down
